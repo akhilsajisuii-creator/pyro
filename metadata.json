@@ -1,0 +1,7 @@
+{
+  "name": "PyroWatch Monitoring System",
+  "description": "A professional fire and gas leak monitoring dashboard with AI-powered vision detection and sensor visualization.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

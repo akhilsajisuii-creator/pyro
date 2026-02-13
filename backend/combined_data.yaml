@@ -1,0 +1,7 @@
+path: C:/Users/ambad/Desktop/model/combined_dataset
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 7
+names: ['flame', 'person', 'knob_on', 'knob_off', 'pot', 'window', 'flame_off']

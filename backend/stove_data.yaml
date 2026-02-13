@@ -1,0 +1,7 @@
+path: C:/Users/ambad/Desktop/model/gas stove safety.v1i.yolov8
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 4
+names: ['flame_off', 'flame_on', 'knob_off', 'knob_on']
